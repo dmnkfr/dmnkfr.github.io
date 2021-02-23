@@ -52,6 +52,8 @@
 }
 
 .u-section-1 .u-btn-1 {
+  width: 94px;
+  height: 16px;
   padding: 0;
 }
 
@@ -402,7 +404,7 @@
 }
 
 .u-section-1 .u-layout-cell-3 {
-  min-height: 72px;
+  min-height: 75px;
 }
 
 .u-section-1 .u-container-layout-7 {
@@ -412,7 +414,7 @@
 .u-section-1 .u-image-2 {
   width: 42px;
   height: 42px;
-  margin: 10px auto 0 0;
+  margin: 13px 261px 0 0;
 }
 
 .u-section-1 .u-image-3 {
