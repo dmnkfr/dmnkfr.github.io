@@ -24,7 +24,8 @@ params:
       - https://cdn.jsdelivr.net/
     formaction: '''self'''
     framesrc: '''self'''
-    imgsrc: '''self'''
+    imgsrc: 
+      - '''self'''
     objectsrc: '''none'''
     prefetchsrc: '''self'''
     scriptsrc:
