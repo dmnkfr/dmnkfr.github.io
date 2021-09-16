@@ -9,12 +9,16 @@ params:
     - Email
     - GitHub
     - Linkedin
+    - Researchgate
+    - Google Scholar
     - Twitter
   github: https://github.com/dmnkfr
   showPageTitleInTOC: yes
   twitter: https://twitter.com/dmnkfr
   linkedin: https://www.linkedin.com/in/dmnkfr/
   email: dominik.freunberger@gmail.com
+  google-scholar: https://scholar.google.com/citations?user=iLc6GCgAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Dominik-Freunberger
   markup:
   goldmark:
     renderer:
