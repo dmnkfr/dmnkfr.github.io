@@ -43,7 +43,7 @@ params:
   dateFormat: January 2, 2006
   description: Dominik Freunberger's personal website
   enableTwemoji: no
-  footerContent: Be nice, read books, climb mountians.
+  footerContent:
   hideColorSchemeToggle: no
   hideCopyright: no
   hideCredits: no
@@ -91,3 +91,6 @@ languages:
         - name: Publications
           url: publications/
           weight: 3
+        - name: Background
+          url: background/
+          weight: 4
