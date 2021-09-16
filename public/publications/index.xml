@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on dmnkr</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on dmnkr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021</copyright>
+    <lastBuildDate>Mon, 13 Sep 2021 09:19:29 -0400</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>/publications/publication-list/</link>
+      <pubDate>Mon, 13 Sep 2021 09:19:29 -0400</pubDate>
+      
+      <guid>/publications/publication-list/</guid>
+      <description>Journal Publications   Freunberger, D., Bylund, E., &amp;amp; Abrahamsson, N. (in press). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. To appear Applied Linguistics.
+  Freunberger, D., &amp;amp; Roehm, D. (2017). The costs of being certain: Brain potential evidence for linguistic pre-activation in sentence processing. Psychophysiology, 54, 824–832.
+  Freunberger, D.</description>
+    </item>
+    
+  </channel>
+</rss>

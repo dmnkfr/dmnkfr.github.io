@@ -14,7 +14,7 @@ params:
     - Google Scholar
     - Twitter
   github: https://github.com/dmnkfr
-  showPageTitleInTOC: no
+  showPageTitleInTOC: yes
   twitter: https://twitter.com/dmnkfr
   linkedin: https://www.linkedin.com/in/dmnkfr/
   email: mailto:dominik.freunberger@gmail.com
