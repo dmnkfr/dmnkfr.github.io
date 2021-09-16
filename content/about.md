@@ -2,7 +2,6 @@
 aliases:
 - about-us
 - about-hugo
-- contact
 author: Dominik Freunberger
 date: "2019-02-28"
 description: A little background about me.

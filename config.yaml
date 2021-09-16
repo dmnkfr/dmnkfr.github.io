@@ -10,7 +10,7 @@ pygmentsCodeFencesGuessSyntax: yes
 enableEmoji: yes
 params:
   author: Dominik Freunberger
-  avatarURL: static/images/Me1.jpg
+  avatarURL: "/images/Me1.jpg"
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
   csp:
@@ -90,6 +90,3 @@ languages:
         - name: Publications
           url: publications/
           weight: 3
-        - name: Contact me
-          url: contact/
-          weight: 5
