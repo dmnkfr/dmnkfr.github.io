@@ -10,7 +10,7 @@ title: About
 
 I am a data scientist with a PhD in linguistics and vast experience as a researcher cognitive neuroscience and psychometrics. I use state-of-the-art programming, statistical, and machine learning methods to find meaning in data (and make pretty plots). 
 
-
+![bla](/image1.jpeg)
 
 ### Experience
 __Aug 2021 Data Science Fellow at Science to Data Science__

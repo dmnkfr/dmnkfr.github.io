@@ -5,17 +5,7 @@
     <link>/</link>
     <description>Recent content on Dominik Freunberger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>/projects/test-test/</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/test-test/</guid>
-      <description>Here goes a header!    </description>
-    </item>
-    
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -35,15 +25,6 @@ Science to Data Science (S2DS) is a highly selective and intensive 5-week progra
       <guid>/publications/</guid>
       <description>Journal Publications      Freunberger, D., Bylund, E., &amp;amp; Abrahamsson, N. (in press). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. To appear in Applied Linguistics.
   Freunberger, D., &amp;amp; Roehm, D. (2017). The costs of being certain: Brain potential evidence for linguistic pre-activation in sentence processing. Psychophysiology, 54, 824–832.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
   </channel>
