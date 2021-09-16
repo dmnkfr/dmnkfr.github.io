@@ -4,7 +4,7 @@ languageCode: en-us
 baseURL: https://dmnkfr.github.io/
 copyright: © 2021
 params:
-  disable_sri: true
+  disable_sri: no
   dateFormat: Jan 2 2006
   iconOrder:
     - Email
