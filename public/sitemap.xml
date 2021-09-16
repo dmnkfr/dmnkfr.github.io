@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dmnkfr.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/blog/markdown-syntax-guide/</loc>
+    <loc>/blog/markdown-syntax-guide/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/math/</loc>
+    <loc>/tags/math/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/blog/math-typesetting/</loc>
+    <loc>/blog/math-typesetting/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/blog/rich-text/</loc>
+    <loc>/blog/rich-text/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/shortcodes/</loc>
+    <loc>/tags/shortcodes/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/blog/example-post/</loc>
+    <loc>/blog/example-post/</loc>
     <lastmod>2020-06-04T09:19:29-04:00</lastmod>
   </url><url>
-    <loc>https://dmnkfr.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
