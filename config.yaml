@@ -86,7 +86,7 @@ languages:
           url: about/
           weight: 1
         - name: Projects
-          url: posts/
+          url: projects/
           weight: 2
         - name: Publications
           url: publications/
