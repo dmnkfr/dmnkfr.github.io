@@ -1,5 +1,5 @@
 theme: hugo-theme-codex
-title: Blabla
+title: codex
 languageCode: en-us
 baseURL: dmnkfr.github.io
 copyright: © {year}
@@ -7,8 +7,8 @@ params:
   dateFormat: Jan 2 2006
   github: https://github.com/<your handle>
   iconOrder:
-    - GitHub
     - Twitter
+    - GitHub
   showPageTitleInTOC: no
   twitter: https://twitter.com/<your handle>
 markup:
