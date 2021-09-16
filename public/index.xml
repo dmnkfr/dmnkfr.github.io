@@ -1,50 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dmnkr</title>
-    <link>/</link>
-    <description>Recent content on dmnkr</description>
+    <title>Dominik Freunberger</title>
+    <link>dmnkfr.github.io/</link>
+    <description>Recent content on Dominik Freunberger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2021</copyright>
-    <lastBuildDate>Mon, 13 Sep 2021 09:19:29 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="dmnkfr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publications</title>
-      <link>/publications/publication-list/</link>
-      <pubDate>Mon, 13 Sep 2021 09:19:29 -0400</pubDate>
+      <title>Emoji Support</title>
+      <link>dmnkfr.github.io/projects/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publications/publication-list/</guid>
-      <description>Journal Publications   Freunberger, D., Bylund, E., &amp;amp; Abrahamsson, N. (in press). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. To appear Applied Linguistics.
-  Freunberger, D., &amp;amp; Roehm, D. (2017). The costs of being certain: Brain potential evidence for linguistic pre-activation in sentence processing. Psychophysiology, 54, 824–832.
-  Freunberger, D.</description>
+      <guid>dmnkfr.github.io/projects/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Education</title>
-      <link>/education/example-post/</link>
-      <pubDate>Sun, 13 Sep 2020 09:19:29 -0400</pubDate>
+      <title>About</title>
+      <link>dmnkfr.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/education/example-post/</guid>
-      <description>University Education 2017: PhD (Dr. rer. nat.) in Linguistics, Centre for Cognitive Neuroscience and Department of Linguistics, University of Salzburg, Austria. Thesis title: “Producing Future: Electrophysiological correlates of linguistic prediction in sentence comprehension”. Thesis supervisors: Prof. Dr. Hubert Haider &amp;amp; Prof. Dr. Dietmar Roehm.
-2011: Master of Science (MSc) in Psycholinguistics with distinction at the University of Salzburg, Austria. Thesis title: “Processing a Second Language: Neurocognitive Correlates of Second Language Proficiency”.</description>
+      <guid>dmnkfr.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
     </item>
     
     <item>
-      <title>Welcome To Codex</title>
-      <link>/experience/example-post/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
+      <title>About</title>
+      <link>dmnkfr.github.io/about.pt-br/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/experience/example-post/</guid>
-      <description>The standard Lorem Ipsum passage &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>dmnkfr.github.io/about.pt-br/</guid>
+      <description>Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença Apache Licence 2.0. O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
+O Hugo faz o uso de vários projetos de código aberto incluíndo:</description>
     </item>
     
     <item>
-      <title>Welcome To Codex</title>
-      <link>/projects/example-post/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
+      <title>Contact</title>
+      <link>dmnkfr.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/example-post/</guid>
-      <description>The standard Lorem Ipsum passage &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>dmnkfr.github.io/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>dmnkfr.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>dmnkfr.github.io/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>dmnkfr.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>dmnkfr.github.io/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>dmnkfr.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>dmnkfr.github.io/projects/</guid>
+      <description>Nada para ver aqui.. Circulando!</description>
     </item>
     
   </channel>

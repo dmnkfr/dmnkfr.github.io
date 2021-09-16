@@ -1,50 +1,95 @@
-theme: hugo-theme-codex
-title: dmnkr
-languageCode: en-us
-baseURL: " "
-copyright: © 2021
+baseURL: dmnkfr.github.io
+title: Dominik Freunberger
+theme: hugo-coder
+languageCode: en
+defaultContentLanguage: en
+paginate: 20
+pygmentsStyle: bw
+pygmentsCodeFences: yes
+pygmentsCodeFencesGuessSyntax: yes
+enableEmoji: yes
 params:
-  disable_sri: no
-  dateFormat: Jan 2 2006
-  iconOrder:
-    - Email
-    - GitHub
-    - Linkedin
-    - Researchgate
-    - Google Scholar
-    - Twitter
-  github: https://github.com/dmnkfr
-  showPageTitleInTOC: yes
-  twitter: https://twitter.com/dmnkfr
-  linkedin: https://www.linkedin.com/in/dmnkfr/
-  email: mailto:dominik.freunberger@gmail.com
-  google-scholar: https://scholar.google.com/citations?user=iLc6GCgAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Dominik-Freunberger
-  markup:
-  goldmark:
-    renderer:
-      unsafe: yes
-  highlight:
-    codeFences: no
-menu:
-  main:
-    - identifier: about
-      name: about
-      title: About
-      url: /
-    - identifier: projects
-      name: projects
-      title: Projects
-      url: /projects
-    - identifier: experience
-      name: experience
-      title: Experience
-      url: /experience
-    - identifier: education
-      name: education
-      title: Education
-      url: /education
-    - identifier: publications
-      name: publications
-      title: Publications
-      url: /publications
+  author: Dominik Freunberger
+  avatarURL: "static/images/Me1.jpg"
+  colorScheme: auto
+  commit: https://github.com/luizdepra/hugo-coder/tree/
+  csp:
+    childsrc: '''self'''
+    connectsrc:
+      - '''self'''
+      - https://www.google-analytics.com
+    fontsrc:
+      - '''self'''
+      - https://fonts.gstatic.com
+      - https://cdn.jsdelivr.net/
+    formaction: '''self'''
+    framesrc: '''self'''
+    imgsrc: '''self'''
+    objectsrc: '''none'''
+    prefetchsrc: '''self'''
+    scriptsrc:
+      - '''self'''
+      - '''unsafe-inline'''
+      - https://www.google-analytics.com
+    stylesrc:
+      - '''self'''
+      - '''unsafe-inline'''
+      - https://fonts.googleapis.com/
+      - https://cdn.jsdelivr.net/
+  customCSS: []
+  customJS: []
+  customSCSS: []
+  dateFormat: January 2, 2006
+  description: Dominik Freunberger's personal website
+  enableTwemoji: no
+  footerContent: Be nice, read books, climb mountians.
+  hideColorSchemeToggle: no
+  hideCopyright: no
+  hideCredits: no
+  hideFooter: no
+  info:
+    - Data Scientist
+    - Linguist
+  keywords: blog,data scientist,personal,linguist
+  maxSeeAlsoItems: 5
+  rtl: no
+  since: 2021
+  social:
+    - icon: fa fa-email-bulk
+      name: Mail
+      url: mailto:dominik.freunberger@gmail.com
+      weight: 1
+    - icon: fa fa-github
+      name: Github
+      url: https://github.com/dmnkfr/
+      weight: 2
+    - icon: fa fa-linkedin
+      name: LinkedIn
+      url: https://www.linkedin.com/in/dmnkfr/
+      weight: 3
+    - icon: fa fa-twitter
+      name: Twitter
+      url: https://twitter.com/dmnkfr/
+      weight: 4
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags
+languages:
+  en:
+    languageName: ':uk:'
+    menu:
+      main:
+        - name: About
+          url: about/
+          weight: 1
+        - name: Projects
+          url: posts/
+          weight: 2
+        - name: Publications
+          url: publications/
+          weight: 3
+        - name: Contact me
+          url: contact/
+          weight: 5
