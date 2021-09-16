@@ -2,16 +2,20 @@ theme: hugo-theme-codex
 title: dmnkr
 languageCode: en-us
 baseURL: https://dmnkfr.github.io/
-copyright: © {year}
+copyright: © 2021
 params:
   dateFormat: Jan 2 2006
-  github: https://github.com/<your handle>
   iconOrder:
-    - Twitter
+    - Email
     - GitHub
-  showPageTitleInTOC: no
-  twitter: https://twitter.com/<your handle>
-markup:
+    - Linkedin
+    - Twitter
+  github: https://github.com/dmnkfr
+  showPageTitleInTOC: yes
+  twitter: https://twitter.com/dmnkfr
+  linkedin: https://www.linkedin.com/in/dmnkfr/
+  email: dominik.freunberger@gmail.com
+  markup:
   goldmark:
     renderer:
       unsafe: yes
@@ -22,8 +26,16 @@ menu:
     - identifier: about
       name: about
       title: About
-      url: /
-    - identifier: blog
-      name: blog
-      title: Blog
-      url: /blog
+      url: /about
+    - identifier: projects
+      name: projects
+      title: Projects
+      url: /projects
+    - identifier: experience
+      name: experience
+      title: Experience
+      url: /experience
+    - identifier: education
+      name: education
+      title: Education
+      url: /education
