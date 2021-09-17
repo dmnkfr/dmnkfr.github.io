@@ -4,4 +4,4 @@ I built my personal website with [Hugo](https://gohugo.io/) and [Coder](https://
 
 It's hosted on Netlify and you can have a look at it [here](https://dmnkfr.netlify.app/).
 
-![website_screenshot](/website.png)
+[![website_screenshot](/website.png)](https://dmnkfr.netlify.app/)
