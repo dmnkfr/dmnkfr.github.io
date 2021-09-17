@@ -5,7 +5,7 @@ date: "2019-02-28"
 description: My educational background.
 title: Background
 ---
-Below you find some info about my professional experience and educational background, both from academic training as well as online courses and boot camps.
+Below you find some info about my professional experience and educational background, both from academic training as well as online courses and boot camps. A condensed version of my CV is [here.](/FreunbergerCV1page.pdf)
 
 [![photo1](/photo1.jpeg)](/large1.jpeg)
 
