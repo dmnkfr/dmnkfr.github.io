@@ -5,16 +5,37 @@
     <link>/</link>
     <description>Recent content on Dominik Freunberger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>/projects/test-test/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/test-test/</guid>
+      <description>Here goes a header!    </description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I am a data scientist with a PhD in linguistics and vast experience as a researcher cognitive neuroscience and psychometrics. I use state-of-the-art programming, statistical, and machine learning methods to find meaning in data (and make pretty plots).
+      <description>I am a data scientist with a PhD in linguistics and vast experience as a researcher in cognitive neuroscience and psychometrics. I use state-of-the-art programming, statistical, and machine learning methods to find meaning in data (and make pretty visualizations).</description>
+    </item>
+    
+    <item>
+      <title>Background</title>
+      <link>/background/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/background/</guid>
+      <description>Below you find some info about my professional experience and educational background, both from academic training as well as online courses and boot camps.
+
 Experience    Aug 2021 Data Science Fellow at Science to Data Science
-Science to Data Science (S2DS) is a highly selective and intensive 5-week program with the aim of facilitating academics to transition into data science.</description>
+Science to Data Science (S2DS) is a highly selective and intensive 5-week program with the aim of facilitating academics to transition into data science.
+During the program, I worked in a team of five on a project commissioned by the Food Standards Agency (FSA) on assessing the usefulness of social media to understand changes in behaviors and attitudes towards food during the 18 months of the COVID-19 pandemic.</description>
     </item>
     
     <item>
@@ -23,8 +44,9 @@ Science to Data Science (S2DS) is a highly selective and intensive 5-week progra
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Journal Publications      Freunberger, D., Bylund, E., &amp;amp; Abrahamsson, N. (in press). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. To appear in Applied Linguistics.
-  Freunberger, D., &amp;amp; Roehm, D. (2017). The costs of being certain: Brain potential evidence for linguistic pre-activation in sentence processing. Psychophysiology, 54, 824–832.</description>
+      <description>Here you find an overview of my academic publications, presentations, etc. as well as my in-house publications from my time at the BIFIE (now IQS) Austria.
+
+Journal Publications      Freunberger, D., Bylund, E., &amp;amp; Abrahamsson, N. (in press). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. To appear in Applied Linguistics.</description>
     </item>
     
   </channel>

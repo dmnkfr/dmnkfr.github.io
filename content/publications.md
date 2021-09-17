@@ -1,11 +1,14 @@
 ---
 aliases:
-- publication-list
 author: Dominik Freunberger
 date: "2019-02-28"
 description: My academic publications and presentations.
 title: Publications
 ---
+Here you find an overview of my academic publications, presentations, etc. as well as my in-house publications from my time at the BIFIE (now [IQS](https://www.iqs.gv.at/)) Austria.
+
+
+[![photo2](/photo2.jpeg)](/large2.jpeg)
 
 ### Journal Publications			
 1. __Freunberger, D.__, Bylund, E., & Abrahamsson, N. (in press). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. To appear in _Applied Linguistics_.
