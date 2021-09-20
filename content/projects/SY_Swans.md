@@ -1,9 +1,9 @@
 ---
 author: Dominik Freunberger
-date: "2021-09-13"
-description: Test this crap
+date: "2021-09-18"
+description: NLP and machine learning with song lyrics
 tags:
-title: Test
+title: Repetition and Noise: The Words of Swans and Sonic Youth
 ---
 
-### Here goes a header!
+### Repetition and Noise: The Words of Swans and Sonic Youth
