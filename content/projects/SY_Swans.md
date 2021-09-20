@@ -2,13 +2,13 @@
 author: Dominik Freunberger
 date: "2021-09-18"
 description: NLP and machine learning with song lyrics
-tags:
-title: "Repetition and Noise"
+tags: NLP, machine learning, keras, tensorflow, shinyR
+title: "Repetition and Noise: The Words of Swans and Sonic Youth"
 ---
 
-### Repetition and Noise: The Words of Swans and Sonic Youth
+### Natural language processing (NLP) and machine learning with song lyrics
 
-In this project, I am exploring the lyrics of the NY noise rock bands __Swans__ and __Sonic Youth__ using NLP  and machine learning methods.
+In this project, I am exploring the lyrics of the NY noise rock bands Swan and Sonic Youth using __NLP and machine learning methods__.
 
 - The __code__ for this project is [here](https://github.com/dmnkfr/sonic_youth/blob/main/sy_swans.Rmd).
 
