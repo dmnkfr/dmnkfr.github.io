@@ -8,7 +8,7 @@ title: "Repetition and Noise: The Words of Swans and Sonic Youth"
 
 ### Natural language processing (NLP) and machine learning with song lyrics
 
-In this project, I am exploring the lyrics of the NY noise rock bands Swan and Sonic Youth using __NLP and machine learning methods__.
+In this project, I am exploring the lyrics of the NY noise rock bands Swans and Sonic Youth using __NLP and machine learning methods__.
 
 - The __code__ for this project is [here](https://github.com/dmnkfr/sonic_youth/blob/main/sy_swans.Rmd).
 
