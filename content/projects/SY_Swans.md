@@ -3,7 +3,7 @@ author: Dominik Freunberger
 date: "2021-09-18"
 description: NLP and machine learning with song lyrics
 tags: NLP, machine learning, keras, tensorflow, shinyR
-title: "Repetition and Noise: The Words of Swans and Sonic Youth"
+title: "Töst"
 ---
 
 ### Natural language processing (NLP) and machine learning with song lyrics
