@@ -1,8 +1,8 @@
 ---
 author: Dominik Freunberger
-date: "2021-09-18"
-description: NLP and machine learning with song lyrics
-tags: NLP, machine learning, keras, tensorflow, shinyR
+date: "2021-06-21"
+description: google data, tidyverse and ggplot to illustrate transit in Stockholm
+tags: tidyverse, ggplot2, covid, transit, stockholm, inequality
 title: "Stockholm transit during COVID-19: Income and the ability to work from home"
 ---
 
