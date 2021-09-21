@@ -91,6 +91,6 @@ languages:
         - name: Publications
           url: publications/
           weight: 4
-        - name: Background
-          url: background/
+        - name: Experience
+          url: experience/
           weight: 3
