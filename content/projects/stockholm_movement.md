@@ -12,6 +12,6 @@ Out of curiosity, I wanted to replicate [a friend's analysis of transit data for
 
 Have a look at the __rendered site__ [here](https://dmnkfr.github.io/Stockholm_Movement/).
 
-[![photo](projects/images/slussen.JPG)]
+[![photo](/projects/images/slussen.JPG)]
 
 If you have any __questions or feedback__, please don't hesitate to [contact me](https://dmnkfr.netlify.app/).
