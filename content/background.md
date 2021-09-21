@@ -3,9 +3,9 @@ aliases:
 author: Dominik Freunberger
 date: "2019-02-28"
 description: My educational background.
-title: Background
+title: Experience
 ---
-Below you find some info about my professional experience and educational background, both from academic training as well as online courses and boot camps. A condensed version of my CV is [here.](/FreunbergerCV1page.pdf)
+Below you find some info about my __professional experience__ and __educational background__, both from academic training as well as online courses and boot camps. A condensed version of my CV is [here.](/FreunbergerCV1page.pdf)
 
 [![photo1](/photo1.jpeg)](/large1.jpeg)
 
