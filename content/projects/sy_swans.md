@@ -16,4 +16,6 @@ In this project, I am exploring the lyrics of the NY noise rock bands Swans and 
 
 - The __app__ that tells you whether your own text sounds more like Swans or Sonic Youth is [here](https://dmnkfr.shinyapps.io/Swans_Sonic_Youth/).
 
+[![photo](/projects/images/sy_swans.png)](https://dmnkfr.github.io/sonic_youth/)
+
 If you have any __questions or feedback__, please don't hesitate to [contact me](https://dmnkfr.netlify.app/).
