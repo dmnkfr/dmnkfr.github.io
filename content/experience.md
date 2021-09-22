@@ -5,7 +5,7 @@ date: "2019-02-28"
 description: My educational background.
 title: Experience
 ---
-Below you find some info about my __professional experience__ and __educational background__, both from academic training as well as online courses and boot camps. A condensed version of my CV is [here.](/FreunbergerCV1page.pdf)
+Below you find some info about my __professional experience__ and __educational background__, both from academic training as well as online courses and boot camps. A condensed version of my CV is [here.](/FreunbergerCV1.pdf)
 
 [![photo1](/photo1.jpeg)](/large1.jpeg)
 
