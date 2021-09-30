@@ -5,6 +5,7 @@ description: Exploring names in Austria
 tags: ggplot, shinyR
 title: "How popular is my name?"
 ---
+
 ### Exploring the popularity of names in Austria between 1984 and 2020
 
 ___"You have a unique and rare name!"___ 
