@@ -1,21 +1,18 @@
 ---
 author: Dominik Freunberger
 date: "2021-09-18"
-description: NLP and machine learning with song lyrics
-tags: NLP, machine learning, keras, tensorflow, shinyR
-title: "Repetition and Noise: The Words of Swans and Sonic Youth"
+description: Exploring names in Austria
+tags: ggplot, shinyR
+title: "How popular is my name in Austria?"
 ---
+### Exploring the popularity of names in Austria between 1984 and 2020
 
-### Natural language processing (NLP) and machine learning with song lyrics
+___"You have a unique and rare name!"___ I've heard that sentence once too often from those responsible for the name and became slightly skeptical. So I got the data from [Statistik Austria](https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/vornamen/index.html) and wanted to see if there's something to it.
 
-In this project, I am exploring the lyrics of the NY noise rock bands Swans and Sonic Youth using __NLP and machine learning methods__.
+- The rendered page is [here.](https://dmnkfr.github.io/my_name/)
 
-- The __code__ for this project is [here](https://github.com/dmnkfr/sonic_youth/blob/main/sy_swans.Rmd).
+- The app that let's you check your own name's popularity in Austria between 1984 and 2020 is [here.](https://dmnkfr.shinyapps.io/my_name_your_name/)
 
-- The __rendered site__ without the code is [here](https://dmnkfr.github.io/sonic_youth/).
+[![photo](/projects/images/my_name.png)](https://dmnkfr.github.io/sonic_youth/)
 
-- The __app__ that tells you whether your own text sounds more like Swans or Sonic Youth is [here](https://dmnkfr.shinyapps.io/Swans_Sonic_Youth/).
-
-[![photo](/projects/images/sy_swans.png)](https://dmnkfr.github.io/sonic_youth/)
-
-If you have any __questions or feedback__, please don't hesitate to [contact me](https://dmnkfr.netlify.app/).
+If you have any questions or feedback, don't hesitate to [__contact me.__](https://dmnkfr.netlify.app/)
