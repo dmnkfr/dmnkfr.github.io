@@ -3,11 +3,13 @@ author: Dominik Freunberger
 date: "2021-10-01"
 description: Exploring names in Austria
 tags: ggplot, shinyR
-title: "How popular is my name in Austria?"
+title: "How popular is my name?"
 ---
 ### Exploring the popularity of names in Austria between 1984 and 2020
 
-___"You have a unique and rare name!"___ I've heard that sentence once too often from those responsible for the name and became slightly skeptical. So I got the data from [Statistik Austria](https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/vornamen/index.html) and wanted to see if there's something to it.
+___"You have a unique and rare name!"___ 
+
+I've heard that sentence once too often. So I got the data from [Statistik Austria](https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/geborene/vornamen/index.html) and wanted to see if there's something to it.
 
 - The rendered page is [here.](https://dmnkfr.github.io/my_name/)
 
