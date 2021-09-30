@@ -15,6 +15,6 @@ I've heard that sentence once too often. So I got the data from [Statistik Austr
 
 - The app that let's you check your own name's popularity in Austria between 1984 and 2020 is [here.](https://dmnkfr.shinyapps.io/my_name_your_name/)
 
-[![photo](/projects/images/my_name.png)](https://dmnkfr.github.io/sonic_youth/)
+[![photo](/projects/images/my_name.png)](https://dmnkfr.github.io/my_name/)
 
 If you have any questions or feedback, don't hesitate to [__contact me.__](https://dmnkfr.netlify.app/)
