@@ -11,7 +11,7 @@ Here you find an overview of my academic publications, presentations, etc. as we
 [![photo2](/photo2.jpeg)](/large2.jpeg)
 
 ### Journal Publications			
-1. __Freunberger, D.__, Bylund, E., & Abrahamsson, N. (in press). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. To appear in _Applied Linguistics_.
+1. __Freunberger, D.__, Bylund, E., & Abrahamsson, N. (2021). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. _Applied Linguistics_, online first, 1-20.
 
 2. __Freunberger, D.__, & Roehm, D. (2017). The costs of being certain: Brain potential evidence for linguistic pre-activation in sentence processing. _Psychophysiology, 54,_ 824–832.
 
