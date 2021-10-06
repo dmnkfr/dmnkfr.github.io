@@ -11,15 +11,15 @@ Here you find an overview of my academic publications, presentations, etc. as we
 [![photo2](/photo2.jpeg)](/large2.jpeg)
 
 ### Journal Publications			
-1. __Freunberger, D.__, Bylund, E., & Abrahamsson, N. (2021). Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences. _Applied Linguistics_, online first, 1-20.
+1. __Freunberger, D.__, Bylund, E., & Abrahamsson, N. (2021). [Is it time to reconsider the ‘gold standard’ paradigm in ERP studies on grammatical processing in a second language? A critical assessment based on qualitative individual differences.](https://academic.oup.com/applij/advance-article/doi/10.1093/applin/amab058/6380987) _Applied Linguistics_, online first, 1-20.
 
-2. __Freunberger, D.__, & Roehm, D. (2017). The costs of being certain: Brain potential evidence for linguistic pre-activation in sentence processing. _Psychophysiology, 54,_ 824–832.
+2. __Freunberger, D.__, & Roehm, D. (2017). [The costs of being certain: Brain potential evidence for linguistic pre-activation in sentence processing.](https://onlinelibrary.wiley.com/doi/10.1111/psyp.12848) _Psychophysiology, 54,_ 824–832.
 
-3. __Freunberger, D.__, & Nieuwland, M. S. (2016). Incremental comprehension of spoken quantifier sentences: Evidence from brain potentials. _Brain Research, 1646,_ 475–481.				
+3. __Freunberger, D.__, & Nieuwland, M. S. (2016). [Incremental comprehension of spoken quantifier sentences: Evidence from brain potentials.](https://www.sciencedirect.com/science/article/pii/S0006899316304590) _Brain Research, 1646,_ 475–481.				
 
-4. __Freunberger, D.__, & Roehm, D. (2016). Semantic prediction in language comprehension: Evidence from brain potentials. Language, _Cognition and Neuroscience, 31,_ 1193–1205.
+4. __Freunberger, D.__, & Roehm, D. (2016). [Semantic prediction in language comprehension: Evidence from brain potentials.](https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1205202) _Language, Cognition and Neuroscience, 31,_ 1193–1205.
 
-5. Kulakova, E., __Freunberger, D.__, & Roehm, D. (2014). Marking the Counterfactual: ERP evidence for pragmatic processing of German subjunctives. _Frontiers in Human Neuroscience, 8_: 548.
+5. Kulakova, E., __Freunberger, D.__, & Roehm, D. (2014). [Marking the Counterfactual: ERP evidence for pragmatic processing of German subjunctives.](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00548/full) _Frontiers in Human Neuroscience, 8_: 548.
 
 ### Book Contributions
 1. __Freunberger, D.__ & Breit, S. (2019). Lexikalische Kompetenzen von Kindern der Grundstufe I (Lexical competence in first and second grade primary school students). In: Andrea Holzinger, Silvia Kopp-Sixt, Silke Luttenberger, David Wohlhart (Hrsg.): _Fokus Grundschule Band 1: Forschungsperspektiven und Entwicklungslinien._ Muenster: Waxmann.				
