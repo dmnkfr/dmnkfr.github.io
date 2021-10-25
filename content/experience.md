@@ -50,11 +50,11 @@ Conceptualization, design, implementation, conduction, analysis, and write-
 up of a number of electrophysiological and behavioural experiments on predictive and semantic sentence processing in a first and second language.
 
 ### Formal Education
-__2017 PhD (Dr. rer. nat.) in Linguistics__ at the Centre for Cognitive Neuroscience and Department of Linguistics, University of Salzburg, Austria. Thesis title: “Producing Future: Electrophysiological correlates of linguistic prediction in sentence comprehension”. Thesis supervisors: Prof. Dr. Hubert Haider & Prof. Dr. Dietmar Roehm.
+__2017 PhD (Dr. rer. nat.) in Linguistics__ at the Centre for Cognitive Neuroscience and Department of Linguistics, University of Salzburg, Austria, with research stays at the University of Edinburgh, UK.
 
-__2011 Master of Science (MSc) in Psycholinguistics__ with distinction at the University of Salzburg, Austria. Thesis title: “Processing a Second Language: Neurocognitive Correlates of Second Language Proficiency”. Thesis supervisor: Prof. Dr. Dietmar Roehm.
+__2011 Master of Science (MSc) in Psycholinguistics__ with distinction at the University of Salzburg, Austria.
 
-__2009 Bachelor of Science (BSc) in Linguistics__ at the University of Salzburg, Austria. Thesis title: „Wenn Peter nicht mehr Peter ist. EKP- Untersuchungen zu referentieller und inferentieller Anbindung, sowie zum Phänomen der Repeated Name Penalty” (“When Peter isn’t Peter anymore: ERP research on referential and inferential processing and on the repeated name penalty phenomenon”). Thesis supervisor: Prof. Dr. Dietmar Roehm.
+__2009 Bachelor of Science (BSc) in Linguistics__ at the University of Salzburg, Austria.
 
 ### Informal Education
 __2021:__ [Statistical Learning on Stanford Online](https://www.credential.net/a007ea22-7e45-4fd7-9bea-cf1977b012f6#gs.bhxu8p)
