@@ -57,7 +57,7 @@ __2011 Master of Science (MSc) in Psycholinguistics__ with distinction at the Un
 __2009 Bachelor of Science (BSc) in Linguistics__ at the University of Salzburg, Austria. Thesis title: „Wenn Peter nicht mehr Peter ist. EKP- Untersuchungen zu referentieller und inferentieller Anbindung, sowie zum Phänomen der Repeated Name Penalty” (“When Peter isn’t Peter anymore: ERP research on referential and inferential processing and on the repeated name penalty phenomenon”). Thesis supervisor: Prof. Dr. Dietmar Roehm.
 
 ### Informal Education
-__2021:__ [Statistical Learning on Stanford Online](__2021:__ [Science to Data Science](https://www.credential.net/a007ea22-7e45-4fd7-9bea-cf1977b012f6#gs.bhxu8p)
+__2021:__ [Statistical Learning on Stanford Online](https://www.credential.net/a007ea22-7e45-4fd7-9bea-cf1977b012f6#gs.bhxu8p)
 
 __2021:__ [Science to Data Science](https://www.credential.net/a007ea22-7e45-4fd7-9bea-cf1977b012f6#gs.bhxu8p)
 
