@@ -25,7 +25,7 @@ During the program, I worked in a team of five on a project commissioned by the 
 __2018-2021 Postdoctoral Researcher at Stockholm University:__
 
 - Designed and managed large-scale experiments on second language processing and representation in the brain
-- Published an article in the top journal in the field, [ _Applied Linguistics._ ](https://academic.oup.com/applij)
+- Published an article in the top journal in the field, [ _Applied Linguistics_ ](https://academic.oup.com/applij)
 - Designed and implemented an R pipeline to process, analyse, and visualise electrical brain activation and behavioural data
 - Organised and chaired regular lab meetings
 
