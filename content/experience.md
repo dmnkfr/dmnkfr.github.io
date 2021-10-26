@@ -16,29 +16,30 @@ __Aug 2021 Data Science Fellow at Science to Data Science__
 
 During the program, I worked in a team of five on a project commissioned by the [Food Standards Agency (FSA)](https://www.food.gov.uk/) on assessing the usefulness of social media to understand changes in behaviors and attitudes towards food during the 18 months of the COVID-19 pandemic. The aim of the project was to identify the main themes and trends of conversations on social media around food and COVID-19. 
 
-- Using NLP and machine learning methods, we distilled the main trends from the data, allowing us to detect a valuable signal in (very very very) noisy data.
-- We successfully delivered a proof-of-concept that social media listening can be reliably used to observe consumer behaviours in almost real-time, which can be of great value to the client when responding to rapidly changing events.
+- Assessed the usefulness of social media data to understand changes in people’s behaviours and attitudes towards food-related topics
+- Distilled main trends from the data using NLP and machine learning methods on AWS
+- Successfully delivered a proof-of-concept that social media listening can be reliably used to observe consumer behaviours in almost real-time
+- Communicated insights to a diverse audience through story telling and visualisations
 
 
 __2018-2021 Postdoctoral Researcher at Stockholm University:__
 
-Conceptualization, design, implementation, conduction, analysis, and write-up of a large-scale combined behavioral and neuroimaging experiment on second language processing and representation in the brain.
-
-- We published a review paper from this project in the top journal in the field of linguistics, [ _Applied Linguistics._ ](https://academic.oup.com/applij)
-- I designed an R pipeline to process, analyse, and visualise electrical brain activation data.
-
+- Designed and managed large-scale experiments on second language processing and representation in the brain
+- Published an article in the top journal in the field, [ _Applied Linguistics._ ](https://academic.oup.com/applij)
+- Designed and implemented an R pipeline to process, analyse, and visualise electrical brain activation and behavioural data
+- Organised and chaired regular lab meetings
 
 __2017-2018 Postdoctoral Researcher at BIFIE (now IQS) Austria:__
 
 Scientific backbone of a nation-wide UX-supported [language assessment and training tool](https://usbplus.at/) in close collaboration with highly heterogeneous stakeholders. Design, sampling, administration, and analysis for the validation and standard setting of the assessment and evaluation procedure.
 
-- In a tense field of expectations and limitations, we successfully rolled out this tool, which is now used by thousands of teachers in Austria.
-- In a series of seminars, I had the honour to introduce the field of linguistics and language development to hundreds of teachers.
+- Designed, developed, and validated a UX-supported [language assessment and training tool for children](https://usbplus.at/), in close collaboration with highly heterogeneous stakeholders
+- Successfully rolled out this tool, which is now used by thousands of teachers in Austria
+- Organised and held seminars on linguistics, language development, and language assessment for hundreds of teachers, principals, and language therapists across Austria
 
 __2016-2017 Lecturer (part-time) at University of Salzburg:__
 
-Teaching undergraduate and graduate courses on experimental methods in
-linguistics and on the neurolinguistic foundations of second language acquisition.
+Teaching undergraduate and graduate courses on experimental methods in linguistics and on the neurolinguistic foundations of second language acquisition.
 
 __2014 & 2015 Visiting Postgraduate Researcher at University of Edinburgh:__
 
@@ -46,8 +47,7 @@ Collaboration in an experiment on incremental language comprehension in a thrivi
 
 __2011-2015 Doctoral Researcher at University of Salzburg:__
 
-Conceptualization, design, implementation, conduction, analysis, and write-
-up of a number of electrophysiological and behavioural experiments on predictive and semantic sentence processing in a first and second language.
+Conceptualization, design, implementation, conduction, analysis, and write-up of a number of electrophysiological and behavioural experiments on predictive and semantic sentence processing in a first and second language.
 
 ### Formal Education
 __2017 PhD (Dr. rer. nat.) in Linguistics__ at the Centre for Cognitive Neuroscience and Department of Linguistics, University of Salzburg, Austria, with research stays at the University of Edinburgh, UK.
