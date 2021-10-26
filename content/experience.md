@@ -22,14 +22,14 @@ During the program, I worked in a team of five on a project commissioned by the 
 - Communicated insights to a diverse audience through story telling and visualisations
 
 
-__2018-2021 Postdoctoral Researcher at Stockholm University:__
+__2018-2021 Postdoctoral Researcher at Stockholm University__
 
 - Designed and managed large-scale experiments on second language processing and representation in the brain
 - Published an article in the top journal in the field, [ _Applied Linguistics_ ](https://academic.oup.com/applij)
 - Designed and implemented an R pipeline to process, analyse, and visualise electrical brain activation and behavioural data
 - Organised and chaired regular lab meetings
 
-__2017-2018 Postdoctoral Researcher at BIFIE (now IQS) Austria:__
+__2017-2018 Postdoctoral Researcher at BIFIE (now IQS) Austria__
 
 Scientific backbone of a nation-wide UX-supported [language assessment and training tool](https://usbplus.at/) in close collaboration with highly heterogeneous stakeholders. Design, sampling, administration, and analysis for the validation and standard setting of the assessment and evaluation procedure.
 
@@ -37,15 +37,15 @@ Scientific backbone of a nation-wide UX-supported [language assessment and train
 - Successfully rolled out this tool, which is now used by thousands of teachers in Austria
 - Organised and held seminars on linguistics, language development, and language assessment for hundreds of teachers, principals, and language therapists across Austria
 
-__2016-2017 Lecturer (part-time) at University of Salzburg:__
+__2016-2017 Lecturer (part-time) at University of Salzburg__
 
 Teaching undergraduate and graduate courses on experimental methods in linguistics and on the neurolinguistic foundations of second language acquisition.
 
-__2014 & 2015 Visiting Postgraduate Researcher at University of Edinburgh:__
+__2014 & 2015 Visiting Postgraduate Researcher at University of Edinburgh__
 
 Collaboration in an experiment on incremental language comprehension in a thriving lab environment.
 
-__2011-2015 Doctoral Researcher at University of Salzburg:__
+__2011-2015 Doctoral Researcher at University of Salzburg__
 
 Conceptualization, design, implementation, conduction, analysis, and write-up of a number of electrophysiological and behavioural experiments on predictive and semantic sentence processing in a first and second language.
 
