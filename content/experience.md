@@ -31,8 +31,6 @@ __2018-2021 Postdoctoral Researcher at Stockholm University__
 
 __2017-2018 Postdoctoral Researcher at BIFIE (now IQS) Austria__
 
-Scientific backbone of a nation-wide UX-supported [language assessment and training tool](https://usbplus.at/) in close collaboration with highly heterogeneous stakeholders. Design, sampling, administration, and analysis for the validation and standard setting of the assessment and evaluation procedure.
-
 - Designed, developed, and validated a UX-supported [language assessment and training tool for children](https://usbplus.at/), in close collaboration with highly heterogeneous stakeholders
 - Successfully rolled out this tool, which is now used by thousands of teachers in Austria
 - Organised and held seminars on linguistics, language development, and language assessment for hundreds of teachers, principals, and language therapists across Austria
