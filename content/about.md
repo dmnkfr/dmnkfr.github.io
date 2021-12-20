@@ -6,7 +6,7 @@ description: A little background about me.
 title: About
 ---
 
-I am a data scientist with a PhD in linguistics and vast experience as a researcher in cognitive neuroscience and psychometrics. I use state-of-the-art programming, statistical, and machine learning methods to find meaning in data. I have a penchant for natural language processing and pretty visualisations. Download my CV [here.](/FreunbergerCV.pdf)
+I am a data scientist with a PhD in linguistics and vast experience as a researcher in cognitive neuroscience and psychometrics. I use state-of-the-art programming, statistical, and machine learning methods to find meaning in data. I have a penchant for natural language processing and pretty visualisations.
 
 __Tech stack:__ ___R:___ tidyverse, datatable, tidymodels, caret, keras, tensorflow, ggplot, shinyR, stringr, purr; ___Python:___ numpy, pandas, scikitlearn, matplotlib, seaborn, keras, tensorflow, NLTK; ___SQL___, ___git___.
 
