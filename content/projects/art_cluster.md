@@ -6,7 +6,7 @@ tags: python, kmeans, clustering
 title: "Clustering Art"
 ---
 
-### Using K-Means Clustering to Quantise Art
+### Using K-Means Clustering to Re-Color Art
 
 Here's a fun little project in which I used k-means clustering to fill a painting by Austrian artist [Jonas Geise](https://www.galerievonier.com/artists/jonas-geise/) with the ten dominant colors of another one of his paintings.
 
