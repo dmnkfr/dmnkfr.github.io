@@ -12,6 +12,6 @@ Here's a fun little project in which I used k-means clustering to fill a paintin
 
 Find the Jupyter notebook [here.](https://github.com/dmnkfr/art_cluster/blob/main/art_cluster.ipynb)
 
-[![photo](/projects/images/jonas_quantised.png)](https://github.com/dmnkfr/art_cluster/blob/main/art_cluster.ipynb)
+[![photo](/projects/images/jonas_swapped.jpeg)](https://github.com/dmnkfr/art_cluster/blob/main/art_cluster.ipynb)
 
 If you have any questions or feedback, don't hesitate to [__contact me.__](https://dmnkfr.netlify.app/)
