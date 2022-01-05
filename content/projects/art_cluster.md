@@ -1,6 +1,6 @@
 ---
 author: Dominik Freunberger
-date: "2021-12-28"
+date: "2021-12-05"
 description: Color Quantisation with K-Means Clustering
 tags: python, kmeans, clustering
 title: "Clustering Art"
