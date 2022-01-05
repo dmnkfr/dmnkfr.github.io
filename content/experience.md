@@ -55,6 +55,8 @@ __2011 Master of Science (MSc) in Psycholinguistics__ with distinction at the Un
 __2009 Bachelor of Science (BSc) in Linguistics__ at the University of Salzburg, Austria.
 
 ### Informal Education
+__2022:__ [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/certificate/UC-78be0238-d178-49fe-9f5d-3b1166c71407/)
+
 __2021:__ [Statistical Learning on Stanford Online](https://www.credential.net/a007ea22-7e45-4fd7-9bea-cf1977b012f6#gs.bhxu8p)
 
 __2021:__ [Science to Data Science](https://www.credential.net/a007ea22-7e45-4fd7-9bea-cf1977b012f6#gs.bhxu8p)
