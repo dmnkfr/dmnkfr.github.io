@@ -11,7 +11,7 @@ Below you find some info about my __professional experience__ and __educational 
 
 ### Experience
 __Since Feb 2022:__ ___Data Scientist at Kidzabout___
-- Unit testing, completing, and extending of existing code base.
+- Completing and extending unit tests for existing code base.
 - Researching and collecting additional data sets, and adding support within the custom environment.
 - Basic data exploration and development of baseline models to evaluate data quality.
 - Expanding support for Text-Document-Representations.
