@@ -10,7 +10,15 @@ Below you find some info about my __professional experience__ and __educational 
 [![photo1](/photo1.jpeg)](/large1.jpeg)
 
 ### Experience
-__Aug 2021 Data Science Fellow at Science to Data Science__
+__Since Feb 2022:__ ___Data Scientist at Kidzabout___
+- Unit testing, completing, and extending of existing code base.
+- Researching and collecting additional data sets, and adding support within the custom environment.
+- Basic data exploration and development of baseline models to evaluate data quality.
+- Expanding support for Text-Document-Representations.
+
+
+
+__Aug 2021:__ ___Data Science Fellow at Science to Data Science___
 
 [Science to Data Science (S2DS)](https://s2ds.org/) is a highly selective and intensive 5-week program with the aim of facilitating academics to transition into data science.
 
@@ -22,28 +30,28 @@ During the program, I worked in a team of five on a project commissioned by the 
 - Communicated insights to a diverse audience through story telling and visualisations
 
 
-__2018-2021 Postdoctoral Researcher at Stockholm University__
+__2018-2021:__ ___Postdoctoral Researcher at Stockholm University___
 
 - Designed and managed large-scale experiments on second language processing and representation in the brain
 - Published an article in the top journal in the field, [ _Applied Linguistics_ ](https://academic.oup.com/applij)
 - Designed and implemented an R pipeline to process, analyse, and visualise electrical brain activation and behavioural data
 - Organised and chaired regular lab meetings
 
-__2017-2018 Postdoctoral Researcher at BIFIE (now IQS) Austria__
+__2017-2018:__ ___Postdoctoral Researcher at BIFIE (now IQS) Austria___
 
 - Designed, developed, and validated a UX-supported [language assessment and training tool for children](https://usbplus.at/), in close collaboration with highly heterogeneous stakeholders
 - Successfully rolled out this tool, which is now used by thousands of teachers in Austria
 - Organised and held seminars on linguistics, language development, and language assessment for hundreds of teachers, principals, and language therapists across Austria
 
-__2016-2017 Lecturer (part-time) at University of Salzburg__
+__2016-2017:__ ___Lecturer (part-time) at University of Salzburg___
 
 Teaching undergraduate and graduate courses on experimental methods in linguistics and on the neurolinguistic foundations of second language acquisition.
 
-__2014 & 2015 Visiting Postgraduate Researcher at University of Edinburgh__
+__2014/2015:__ ___Visiting Postgraduate Researcher at University of Edinburgh___
 
 Collaboration in an experiment on incremental language comprehension in a thriving lab environment.
 
-__2011-2015 Doctoral Researcher at University of Salzburg__
+__2011-2015:__ ___Doctoral Researcher at University of Salzburg___
 
 Conceptualization, design, implementation, conduction, analysis, and write-up of a number of electrophysiological and behavioural experiments on predictive and semantic sentence processing in a first and second language.
 
