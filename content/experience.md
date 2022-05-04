@@ -25,14 +25,14 @@ __Aug-Sep 2021:__ _Data Science Fellow at Science to [Data Science](https://s2ds
   - Communicated insights to a diverse audience through story telling and visualizations
 
 
-__2018-2021:__ _Postdoctoral Researcher at Stockholm University_
+__2018-2021:__ _Postdoctoral Researcher at [Stockholm University](https://www.biling.su.se/english/)_
 
   - Designed and managed large-scale experiments on second language processing and representation in the brain
   - Published an article in the top journal in the field, [ _Applied Linguistics_ ](https://academic.oup.com/applij)
   - Designed and implemented an R pipeline to process, analyse, and visualise electrical brain activation and behavioural data
   - Organised and chaired regular lab meetings
 
-__2017-2018:__ _Postdoctoral Researcher at BIFIE (now IQS) Austria_
+__2017-2018:__ _Postdoctoral Researcher at [IQS Austria](https://www.iqs.gv.at/)_
 
   - Designed, developed, and validated a UX-supported [language assessment and training tool for children](https://usbplus.at/), in close collaboration with highly heterogeneous stakeholders
   - Successfully rolled out this tool, which is now used by thousands of teachers in Austria
@@ -46,7 +46,7 @@ __2014/2015:__ _Visiting Postgraduate Researcher at University of Edinburgh_
 
   Collaboration in an experiment on incremental language comprehension in a thriving lab environment.
 
-__2011-2015:__ _Doctoral Researcher at University of Salzburg_
+__2011-2015:__ _Doctoral Researcher at [University of Salzburg](https://ccns.sbg.ac.at/)_
 
   Conceptualization, design, implementation, conduction, analysis, and write-up of a number of electrophysiological and behavioural experiments on predictive and semantic sentence processing in a first and second language.
 
