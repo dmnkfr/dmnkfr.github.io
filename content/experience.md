@@ -18,7 +18,7 @@ __Feb-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
   - Developed baseline models to evaluate data quality and usefulness for model building.
   - Expanded support for Text-Document-Representations.
 
-__Aug-Sep 2021:__ _Data Science Fellow at Science to [Data Science](https://s2ds.org/)_
+__Aug-Sep 2021:__ _Data Science Fellow at [Science to Data Science](https://s2ds.org/)_
 
   - Assessed the usefulness of social media data to understand changes in people’s behaviors and attitudes towards topics of interest using NLP and other machine learning methods
   - Successfully delivered a proof-of-concept that social media listening can be reliably used to observe consumer behaviors in almost real-time
