@@ -13,10 +13,10 @@ Below you find some info about my __professional experience__ and __educational 
 __Since May 2022:__ _Data Scientist at [Nepa](https://nepa.se/)_
 
 __Feb-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
-  - Extending unit tests for existing code base.
-  - Researching and collecting additional data sets and adding support within the custom environment.
-  - Data exploration and development of baseline models to evaluate data quality.
-  - Expanding support for Text-Document-Representations.
+  - Extended unit tests for existing code base.
+  - Researched and collected additional data sets and added support within the custom environment.
+  - Developed baseline models to evaluate data quality and usefulness for model building.
+  - Expanded support for Text-Document-Representations.
 
 __Aug-Sep 2021:__ _Data Science Fellow at Science to [Data Science](https://s2ds.org/)_
 
@@ -40,15 +40,15 @@ __2017-2018:__ _Postdoctoral Researcher at [IQS Austria](https://www.iqs.gv.at/)
 
 __2016-2017:__ _Lecturer (part-time) at University of Salzburg_
 
-  Teaching undergraduate and graduate courses on experimental methods in linguistics and on the neurolinguistic foundations of second language acquisition.
+  - Taught undergraduate and graduate courses on experimental methods in linguistics and on the neurolinguistic foundations of second language acquisition.
 
 __2014/2015:__ _Visiting Postgraduate Researcher at University of Edinburgh_
 
-  Collaboration in an experiment on incremental language comprehension in a thriving lab environment.
+  - Collaborated in an experiment on incremental language comprehension in a thriving lab environment.
 
 __2011-2015:__ _Doctoral Researcher at [University of Salzburg](https://ccns.sbg.ac.at/)_
 
-  Conceptualization, design, implementation, conduction, analysis, and write-up of a number of electrophysiological and behavioural experiments on predictive and semantic sentence processing in a first and second language.
+  - Conceptualized, designed, implemented, conducted, analysed, and wrote-up a number of electrophysiological and behavioral experiments on predictive and semantic sentence processing in a first and second language.
 
 ### Formal Education
 __2017 PhD (Dr. rer. nat.) in Linguistics__ at the Centre for Cognitive Neuroscience and Department of Linguistics, University of Salzburg, Austria, with research stays at the University of Edinburgh, UK.
