@@ -45,7 +45,7 @@ Here you find an overview of my academic publications, presentations, etc. as we
 2. 2011: Academic excellence award of the University of Salzburg, 750 €		
 					
 ### Invited Talks
-1. __Freunberger, D.__ (postponed). To be announced. Talk will be presented at the “Higher Seminar Series” at the Centre for Research on Bilingualism, Stockholm University, Stockholm, Sweden.
+1. __Freunberger, D.__ (2022). Same Same but Different: Why individual Differences in L2 Research Matter. Talk presented at the “Higher Seminar in Bilingualism” at the Centre for Research on Bilingualism, Stockholm University, Stockholm, Sweden, May 31st, 2022.
 
 2. __Freunberger, D.__ (2016). Wie Wörter Wellen werden. (How words become waves). Talk presented at the “52. Jahrestagung des Instituts für deutsche Sprache”, Congress Center Rosengarten Mannheim, Mannheim, Germany, March 9th, 2016.	
 
@@ -54,39 +54,41 @@ Here you find an overview of my academic publications, presentations, etc. as we
 4. __Freunberger, D.__ (2013). Das mehrsprachige Hirn im EEG (The multilingual brain in the EEG). Talk presented at the faculty-wide lecture “An Invitation to Linguistics”, University of Salzburg, Salzburg, Austria, May 22nd, 2013.
 		
 ### Talks, Posters & Workshops
-1. __Freunberger, D.__ & Breit, S. (2018). Parallelen und Unterschiede im Erwerb grammatischen und lexikalischen Wissens bei L1- und L2-Lernerinnen und Lernern in der Grundstufe I. Talk will be presented at the “Grazer Grundschulkongress”, Graz, Austria, July, 2nd – July 4th.	
+1. __Freunberger, D.__, Bylund, M., & Abrahamsson, N. (2022). Reconsidering the 'Gold Standard' for Nativelikeness in L2 ERP Studies. Poster presented at the symposium "Recent Developments in Bilingualism and Multilingualism Research", Stockholm University, Stockholm, Sweden, June 17th.
 
-2. __Freunberger, D.__ & Roehm, D. (2016). Neurolinguistische Befunde der Sprachverarbeitung – Konsequenzen für das Sprachenlernen. Workshop presented at the “FOFO 2016 - Was weiß die Linguistik über Sprachenlernen - was braucht die Schule? Forschungsbasierte Tagung für Sprachlehrpersonen in Österreich", University of Salzburg, Salzburg, Austria, October 14th.		
+2. __Freunberger, D.__ & Breit, S. (2018). Parallelen und Unterschiede im Erwerb grammatischen und lexikalischen Wissens bei L1- und L2-Lernerinnen und Lernern in der Grundstufe I. Talk will be presented at the “Grazer Grundschulkongress”, Graz, Austria, July, 2nd – July 4th.	
 
-3. __Freunberger, D.__ & Roehm, D. (2015). Does a Prediction Benefit Outlast Grammatical Violations? A Double-Violation ERP Study. Poster presented at the “22nd Annual Meeting of the Cognitive Neuroscience Society (CNS)”. San Francisco, United States, March 28th – March 31st.
+3. __Freunberger, D.__ & Roehm, D. (2016). Neurolinguistische Befunde der Sprachverarbeitung – Konsequenzen für das Sprachenlernen. Workshop presented at the “FOFO 2016 - Was weiß die Linguistik über Sprachenlernen - was braucht die Schule? Forschungsbasierte Tagung für Sprachlehrpersonen in Österreich", University of Salzburg, Salzburg, Austria, October 14th.		
 
-4. __Freunberger, D.__ & Roehm, D. (2015). Revealing the Semantic Nature of Prediction in Language Comprehension. Poster presented at the “28th Annual CUNY Conference on Human Sentence Processing”. University of Southern California, Los Angeles, United States, March 19th – March 21st.	
+4. __Freunberger, D.__ & Roehm, D. (2015). Does a Prediction Benefit Outlast Grammatical Violations? A Double-Violation ERP Study. Poster presented at the “22nd Annual Meeting of the Cognitive Neuroscience Society (CNS)”. San Francisco, United States, March 28th – March 31st.
 
-5. __Freunberger, D.__ & Roehm, D. (2014). No Squirrel Likes Collecting Nuts. An ERP Study on Quantification, Prediction, and Cloze Probability. Poster presented at the “20th AMLaP (Architectures and Mechanisms for Language Processing) Conference”. Edinburgh, Scotland, United Kingdom, September 3rd – September 6th.	
+5. __Freunberger, D.__ & Roehm, D. (2015). Revealing the Semantic Nature of Prediction in Language Comprehension. Poster presented at the “28th Annual CUNY Conference on Human Sentence Processing”. University of Southern California, Los Angeles, United States, March 19th – March 21st.	
 
-6. __Freunberger, D.__ (2014). Does a Prediction Benefit Outlast Grammatical Violations? A Double-Violation ERP Study. Poster presented at the “20th AMLaP (Architectures and Mechanisms for Language Processing) Conference”. Edinburgh, Scotland, United Kingdom, September 3rd – September 6th.
+6. __Freunberger, D.__ & Roehm, D. (2014). No Squirrel Likes Collecting Nuts. An ERP Study on Quantification, Prediction, and Cloze Probability. Poster presented at the “20th AMLaP (Architectures and Mechanisms for Language Processing) Conference”. Edinburgh, Scotland, United Kingdom, September 3rd – September 6th.	
 
-7. Kulakova, E., __Freunberger, D.__, & Roehm, D. (2014). Marking the counterfactual: ERP evidence for pragmatic processing of German subjunctives. Poster presented at the “20th AMLaP (Architectures and Mechanisms for Language Processing) Conference”. Edinburgh, Scotland, United Kingdom, September 3rd – September 6th.			
+7. __Freunberger, D.__ (2014). Does a Prediction Benefit Outlast Grammatical Violations? A Double-Violation ERP Study. Poster presented at the “20th AMLaP (Architectures and Mechanisms for Language Processing) Conference”. Edinburgh, Scotland, United Kingdom, September 3rd – September 6th.
 
-8. __Freunberger, D.__ & Roehm, D. (2014). No Squirrel Likes Collecting Nuts. An ERP Study on Quantification, Prediction, and Cloze Probability. Poster presented at the “6th annual meeting of the Society for the Neurobiology of Language (SNL), Amsterdam, The Netherlands, August 27th – August 29th.			
+8. Kulakova, E., __Freunberger, D.__, & Roehm, D. (2014). Marking the counterfactual: ERP evidence for pragmatic processing of German subjunctives. Poster presented at the “20th AMLaP (Architectures and Mechanisms for Language Processing) Conference”. Edinburgh, Scotland, United Kingdom, September 3rd – September 6th.			
 
-9. __Freunberger, D.__ (2014). Does a Prediction Benefit Outlast Grammatical Violations? A Double-Violation ERP Study. Poster presented at the “6th annual meeting of the Society for the Neurobiology of Language (SNL), Amsterdam, The Netherlands, August 27th – August 29th.			
+9. __Freunberger, D.__ & Roehm, D. (2014). No Squirrel Likes Collecting Nuts. An ERP Study on Quantification, Prediction, and Cloze Probability. Poster presented at the “6th annual meeting of the Society for the Neurobiology of Language (SNL), Amsterdam, The Netherlands, August 27th – August 29th.			
+
+10. __Freunberger, D.__ (2014). Does a Prediction Benefit Outlast Grammatical Violations? A Double-Violation ERP Study. Poster presented at the “6th annual meeting of the Society for the Neurobiology of Language (SNL), Amsterdam, The Netherlands, August 27th – August 29th.			
 		
-10. Kulakova, E., __Freunberger, D.__, & Roehm, D. (2014). Marking the counterfactual: ERP evidence for pragmatic processing of German subjunctives. Poster presented at the “6th annual meeting of the Society for the Neurobiology of Language (SNL), Amsterdam, The Netherlands, August 27th – August 29th.			
+11. Kulakova, E., __Freunberger, D.__, & Roehm, D. (2014). Marking the counterfactual: ERP evidence for pragmatic processing of German subjunctives. Poster presented at the “6th annual meeting of the Society for the Neurobiology of Language (SNL), Amsterdam, The Netherlands, August 27th – August 29th.			
 
-11. Roehm, D. & __Freunberger, D.__ (2013). The role of prediction in L1/L2 sentence processing. Talk presented at the „44th Poznan Linguistics Meeting: PLM2013“, Poznan, Poland, August 29th – September 1st.			
+12. Roehm, D. & __Freunberger, D.__ (2013). The role of prediction in L1/L2 sentence processing. Talk presented at the „44th Poznan Linguistics Meeting: PLM2013“, Poznan, Poland, August 29th – September 1st.			
 
-12. __Freunberger, D.__, Roehm, D., & Haider, H. (2013). Vampires like drinking soap. An ERP study on the influence of negative quantifiers on predictive processes in language comprehension. Talk presented at the “CECIL’S 3: Central European Conference in Linguistics for Postgraduate Students”, Piliscaba, Budapest, Hungary, August 22nd – August 23rd.			
+13. __Freunberger, D.__, Roehm, D., & Haider, H. (2013). Vampires like drinking soap. An ERP study on the influence of negative quantifiers on predictive processes in language comprehension. Talk presented at the “CECIL’S 3: Central European Conference in Linguistics for Postgraduate Students”, Piliscaba, Budapest, Hungary, August 22nd – August 23rd.			
 
-13. Kulakova, E., & __Freunberger, D.__ (2013). Counterfactual and hypothetical sentence processing: an ERP investigation of linguistic mood. Poster presented at the “21st Annual Meeting of the European Society for Philosophy and Psychology: ESPP2013”, Department of Philosophy I, Faculty of Psychology, University of Grenada, Grenada, Spain, July 9th – July 12th.			
+14. Kulakova, E., & __Freunberger, D.__ (2013). Counterfactual and hypothetical sentence processing: an ERP investigation of linguistic mood. Poster presented at the “21st Annual Meeting of the European Society for Philosophy and Psychology: ESPP2013”, Department of Philosophy I, Faculty of Psychology, University of Grenada, Grenada, Spain, July 9th – July 12th.			
 
-14. __Freunberger, D.__, Roehm, D., & Haider, H. (2013). Rien Ne Va Plus. Sentence Closure ERP-Effects in Online Processing. Poster presented at the “11th International Symposium of Psycholinguistics”, Tenerife, Canary Islands, Spain, March 20th – March 23rd.			
+15. __Freunberger, D.__, Roehm, D., & Haider, H. (2013). Rien Ne Va Plus. Sentence Closure ERP-Effects in Online Processing. Poster presented at the “11th International Symposium of Psycholinguistics”, Tenerife, Canary Islands, Spain, March 20th – March 23rd.			
 
-15. __Freunberger, D.__, & Roehm, D. (2012). Predicting the predictable: The effect of proficiency on lexical-semantic processing strategies in adult L2 learners. Talk presented at the “Psycholinguistics in Flanders 2012”, Berg en Dal, Nijmegen, The Netherlands, June 6th – June 7th.			
+16. __Freunberger, D.__, & Roehm, D. (2012). Predicting the predictable: The effect of proficiency on lexical-semantic processing strategies in adult L2 learners. Talk presented at the “Psycholinguistics in Flanders 2012”, Berg en Dal, Nijmegen, The Netherlands, June 6th – June 7th.			
 
-16. __Freunberger, D.__, Haider, H., & Roehm, D. (2012). Predicting the predictable: The effect of proficiency on lexical-semantic processing strategies in adult L2 learners. Talk presented at the “10. Tagung der Österreichischen Gesellschaft für Psychologie“ (10th conference of the Austrian Society for Psychology), Karl-Franzens University, Graz, Austria, April 12th – April 14th.			
+17. __Freunberger, D.__, Haider, H., & Roehm, D. (2012). Predicting the predictable: The effect of proficiency on lexical-semantic processing strategies in adult L2 learners. Talk presented at the “10. Tagung der Österreichischen Gesellschaft für Psychologie“ (10th conference of the Austrian Society for Psychology), Karl-Franzens University, Graz, Austria, April 12th – April 14th.			
 
-17. Roehm, D. & __Freunberger, D.__ (2012). Predicting the predictable: The effect of proficiency on lexical-semantic processing strategies in adult L2 learners. Poster presented at the „25th Annual CUNY Conference on Human Sentence Processing“, New York, New York, March 14th – March 16th.
+18. Roehm, D. & __Freunberger, D.__ (2012). Predicting the predictable: The effect of proficiency on lexical-semantic processing strategies in adult L2 learners. Poster presented at the „25th Annual CUNY Conference on Human Sentence Processing“, New York, New York, March 14th – March 16th.
 		
 ### Summer Schools, Workshops, etc.					
 1. Third Annual „DK+ Imaging the Mind Summer School. Dax Lueg, Salzburg, Austria, September 24th– September 26th, 2014. (part of organising committee) 
