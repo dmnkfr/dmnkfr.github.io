@@ -12,7 +12,7 @@ ___"Temperature and precipitation on midsummer* in Stockholm between 1860 and 20
 
 Here's a visualization of the mean temperature across three measurements (morning, noon, evening) and precipitation in Stockholm on June 21st 1860-2020. Data from [SMHI](https://www.smhi.se/data). The code is [here.](https://github.com/dmnkfr/midsommar/blob/main/midsommar.R)
 
-* Until the 1950s midsummer was celebrated on June 23rd and thereafter on the Friday closest to June 21st. To ease things a bit, I used June 21st for the entire period in the plot.
+\* Until the 1950s midsummer was celebrated on June 23rd and thereafter on the Friday closest to June 21st. To ease things a bit, I used June 21st for the entire period in the plot.
 
 [![photo](/projects/images/glad_midsommar.png)](https://en.wikipedia.org/wiki/Midsummer#Sweden)
 
