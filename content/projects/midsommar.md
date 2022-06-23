@@ -6,11 +6,11 @@ tags: ggplot
 title: "Rain, Sun, Both? Midsummer in Stockholm"
 ---
 
-### Temperature and precipitation on midsummer* in Stockholm between 1860 and 2020.
+### Temperature and precipitation on midsummer's eve* in Stockholm between 1860 and 2020.
 
-Here's a visualization of the mean temperature across three measurements (morning, noon, evening) and precipitation in Stockholm on June 21st 1860-2020. Data from [SMHI](https://www.smhi.se/data). The code is [here.](https://github.com/dmnkfr/midsommar/blob/main/midsommar.R)
+Here's a visualization of the mean temperature across three measurements (morning, noon, evening) and precipitation in Stockholm on Midsummer's eve 1860-2020. Data from [SMHI](https://www.smhi.se/data), code [here.](https://github.com/dmnkfr/midsommar/blob/main/midsommar.R)
 
-\* Until the 1950s midsummer was celebrated on June 23rd and thereafter on the Friday closest to June 21st. To ease things a bit, I used June 21st for the entire period in the plot.
+\* Until the 1950s midsummer was celebrated on June 23rd and thereafter on the Friday closest to June 21st.
 
 ### Glad Midsommar!
 
