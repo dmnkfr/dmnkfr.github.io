@@ -58,6 +58,8 @@ __2011 Master of Science (MSc) in Psycholinguistics__ with distinction at the Un
 __2009 Bachelor of Science (BSc) in Linguistics__ at the University of Salzburg, Austria.
 
 ### Informal Education
+__2022:__ [Machine Learning by Stanford University & DeepLearning.AI on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/4BJDN3AM952G) 
+
 __2022:__ [Intermediate Machine Learning on Kaggle](https://www.kaggle.com/learn/certification/dominikfreunberger/intermediate-machine-learning)
 
 __2022:__ [Python for Machine Learning & Data Science Masterclass on Udemy](https://www.udemy.com/certificate/UC-78be0238-d178-49fe-9f5d-3b1166c71407/)
