@@ -1,6 +1,6 @@
 ---
 author: Dominik Freunberger
-date: "2022-12-09"
+date: "2022-11-09"
 description: Do mountaineers die younger?
 tags: python, pandas, seaborn
 title: "Do mountaineers die younger?"
