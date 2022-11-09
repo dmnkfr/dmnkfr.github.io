@@ -1,6 +1,6 @@
 ---
 author: Dominik Freunberger
-date: "2022-02-03"
+date: "2022-12-09"
 description: Do mountaineers die younger?
 tags: python, pandas, seaborn
 title: "Do mountaineers die younger?"
@@ -10,7 +10,7 @@ title: "Do mountaineers die younger?"
 
 A question heard quite often, typically with a pronounced "yes" as an answer. Here's a little analysis if there's something to it. Spoiler: yes.
 
-- The Jupyter notebook is [here.](https://github.com/dmnkfr/mountaineers/blob/main/mountaineers_wiki.ipynb)
+The Jupyter notebook is [here.](https://github.com/dmnkfr/mountaineers/blob/main/mountaineers_wiki.ipynb)
 
 [![photo](/projects/images/mountaineers.png)](https://github.com/dmnkfr/mountaineers/)
 
