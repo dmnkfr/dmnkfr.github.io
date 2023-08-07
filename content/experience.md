@@ -10,7 +10,7 @@ Below you find some info about my __professional experience__ and __educational 
 [![photo1](/photo1.jpeg)](/large1.jpeg)
 
 ### Experience
-__Since June 2023:__ _Data Scientist at [Annalect // Omnicom Media Group](https://www.annalect.com/)_
+__Since June 2023:__ _Data Scientist at [Annalect // Omnicom Media Group](https://annalectnordics.com/)_
 
   - Training, fine-tuning and maintenance of marketing mix and other ML models
   - Implementation of statistical learning algorithms
