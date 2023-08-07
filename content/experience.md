@@ -11,24 +11,27 @@ Below you find some info about my __professional experience__ and __educational 
 
 ### Experience
 __Since June 2023:__ _Data Scientist at [Annalect // Omnicom Media Group](https://www.annalect.com/)_
+
   - Training, fine-tuning and maintenance of marketing mix and other ML models
   - Implementation of statistical learning algorithms
   - Streamlined and automated modeling framework to be more efficient and secure
   - Delivered in-house solutions for data processing
 
 __May 2022-May 2023:__ _Data Scientist at [Nepa](https://nepa.se/)_
+
   - Developed and maintained Nepa's biggest product, their brand tracking dashboard
   - Improved existing data visualizations, crucially extending functionality
-  - Organised a weekly hands-on [study session on NLP](https://dmnkfr.netlify.app/projects/nlp_club/)
+  - Organised and led weekly hands-on [study session on NLP](https://dmnkfr.netlify.app/projects/nlp_club/)
   - Implemented a unit testing strategy
 
 __Feb-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
+
   - Developed baseline text classification models with a focus on informal language
   - Researched, collected, and integrated text data sets
   - Expanded support for text-document-representations
   - Extended unit tests for existing code base
 
-__Aug-Sep 2021:__ _Data Science Fellow at [Science to Data Science](https://s2ds.org/)_
+__Aug-Sep 2021:__ _Data Scientist in the [Science to Data Science](https://s2ds.org/) program_
 
   - Assessed the usefulness of social media data to understand changes in people’s behaviors and attitudes towards topics of interest using NLP and other machine learning methods
   - Successfully delivered a proof-of-concept that social media listening can be reliably used to observe consumer behaviors in almost real-time
