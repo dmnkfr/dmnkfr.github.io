@@ -23,9 +23,9 @@ __May 2022-May 2023:__ _Data Scientist at [Nepa](https://nepa.se/)_
   - Implemented a unit testing strategy
 
 __Feb-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
-  - Developed baseline models to evaluate data quality and usefulness for model building
-  - Researched, collected, and integrated data sets
-  - Expanded support for Text-Document-Representations
+  - Developed baseline text classification models with a focus on informal language
+  - Researched, collected, and integrated text data sets
+  - Expanded support for text-document-representations
   - Extended unit tests for existing code base
 
 __Aug-Sep 2021:__ _Data Science Fellow at [Science to Data Science](https://s2ds.org/)_
