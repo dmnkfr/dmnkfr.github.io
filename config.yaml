@@ -68,10 +68,6 @@ params:
       name: LinkedIn
       url: https://www.linkedin.com/in/dmnkfr/
       weight: 3
-    - icon: fa fa-twitter
-      name: Twitter
-      url: https://twitter.com/dmnkfr/
-      weight: 4
 taxonomies:
   author: authors
   category: categories
