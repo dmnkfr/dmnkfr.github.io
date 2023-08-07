@@ -11,11 +11,15 @@ Below you find some info about my __professional experience__ and __educational 
 
 ### Experience
 __Since June 2023:__ _Data Scientist at [Annalect // Omnicom Media Group](https://www.annalect.com/)_
+  - Training, fine-tuning and maintenance of marketing mix and other ML models
+  - Implementation of statistical learning algorithms
+  - Streamlined and automated modeling framework to be more efficient and secure
+  - Delivered in-house solutions for data processing
 
 __May 2022-May 2023:__ _Data Scientist at [Nepa](https://nepa.se/)_
-  - Developed and maintained Nepa's biggest product, their Brand Tracking Dashboard
-  - Implemented new and improved on existing data visualizations, crucially extending functionality
-  - Organised a weekly hands-on study session on [NLP](https://dmnkfr.netlify.app/projects/nlp_club/)
+  - Developed and maintained Nepa's biggest product, their brand tracking dashboard
+  - Improved existing data visualizations, crucially extending functionality
+  - Organised a weekly hands-on [study session on NLP](https://dmnkfr.netlify.app/projects/nlp_club/)
   - Implemented a unit testing strategy
 
 __Feb-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
