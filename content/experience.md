@@ -21,7 +21,7 @@ __May 2022-May 2023:__ _Data Scientist at [Nepa](https://nepa.se/)_
 
   - Developed and maintained Nepa's biggest product, their brand tracking dashboard
   - Improved existing data visualizations, crucially extending functionality
-  - Organised and led weekly hands-on [study session on NLP](https://dmnkfr.netlify.app/projects/nlp_club/)
+  - Organised and led a weekly hands-on [study session on NLP](https://dmnkfr.netlify.app/projects/nlp_club/)
   - Implemented a unit testing strategy
 
 __Feb-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
