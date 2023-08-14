@@ -111,6 +111,6 @@ Here you find an overview of my academic publications, presentations, etc. as we
 5. 2012 Winter: "Seminar: “Experimental Methods in Psycholinguistics”; for Bachelor and Master Students; University of Salzburg, Department of Psycholinguistics.
 
 ### Review Activities					
-Second Language Research, Applied Psycholinguistics, Cognitive Science, Applied Linguistics
+Second Language Research, Applied Psycholinguistics, Journal of Memory and Language, Cognitive Science, Applied Linguistics
 	
 
