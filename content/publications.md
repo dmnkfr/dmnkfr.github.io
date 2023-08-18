@@ -5,8 +5,7 @@ date: "2019-02-28"
 description: My academic publications and presentations.
 title: Publications
 ---
-Here you find an overview of my academic publications, presentations, etc. as well as my in-house publications from my time at the BIFIE (now [IQS](https://www.iqs.gv.at/)) Austria.
-
+Here you find an overview of my academic publications, presentations, etc. as well as my in-house publications from my time at the [IQS Austria.](https://www.iqs.gv.at/) Have a look at my [google scholar page.](https://scholar.google.com/citations?user=iLc6GCgAAAAJ&hl=en).
 
 [![photo2](/photo2.jpeg)](/large2.jpeg)
 
@@ -40,9 +39,12 @@ Here you find an overview of my academic publications, presentations, etc. as we
 7. Grammel, E. & __Freunberger, D.__ (auf Basis von Grammel, E. & Zauner, M.) unter Mitarbeit von Mösenbichler C. (2017). _Handbuch USB PluS._ BIFIE (Ed.): Salzburg.
 
 ### Scholarships, Grants
-1. 2020: SUBIC (Stockholm University Brain Imaging Centre) Research Grant (as co-applicant), ca. 3000 €	
+1. 2011 - 2022: Several smaller travel and research grants.
 
-2. 2011: Academic excellence award of the University of Salzburg, 750 €		
+2. 2020: SUBIC (Stockholm University Brain Imaging Centre) Research Grant (as co-applicant), 3000 €	
+
+3. 2011: Academic excellence award of the University of Salzburg, 750 €
+
 					
 ### Invited Talks
 1. __Freunberger, D.__ (2022). Same Same but Different: Why individual Differences in L2 Research Matter. Talk presented at the “Higher Seminar in Bilingualism” at the Centre for Research on Bilingualism, Stockholm University, Stockholm, Sweden, May 31st, 2022.
@@ -53,10 +55,11 @@ Here you find an overview of my academic publications, presentations, etc. as we
 
 4. __Freunberger, D.__ (2013). Das mehrsprachige Hirn im EEG (The multilingual brain in the EEG). Talk presented at the faculty-wide lecture “An Invitation to Linguistics”, University of Salzburg, Salzburg, Austria, May 22nd, 2013.
 		
+		
 ### Talks, Posters & Workshops
 1. __Freunberger, D.__, Bylund, M., & Abrahamsson, N. (2022). Reconsidering the 'Gold Standard' for Nativelikeness in L2 ERP Studies. Poster presented at the symposium "Recent Developments in Bilingualism and Multilingualism Research", Stockholm University, Stockholm, Sweden, June 17th.
 
-2. __Freunberger, D.__ & Breit, S. (2018). Parallelen und Unterschiede im Erwerb grammatischen und lexikalischen Wissens bei L1- und L2-Lernerinnen und Lernern in der Grundstufe I. Talk will be presented at the “Grazer Grundschulkongress”, Graz, Austria, July, 2nd – July 4th.	
+2. __Freunberger, D.__ & Breit, S. (2018). Parallelen und Unterschiede im Erwerb grammatischen und lexikalischen Wissens bei L1- und L2-Lernerinnen und Lernern in der Grundstufe I. Talk presented at the “Grazer Grundschulkongress”, Graz, Austria, July, 2nd – July 4th.	
 
 3. __Freunberger, D.__ & Roehm, D. (2016). Neurolinguistische Befunde der Sprachverarbeitung – Konsequenzen für das Sprachenlernen. Workshop presented at the “FOFO 2016 - Was weiß die Linguistik über Sprachenlernen - was braucht die Schule? Forschungsbasierte Tagung für Sprachlehrpersonen in Österreich", University of Salzburg, Salzburg, Austria, October 14th.		
 
