@@ -5,7 +5,7 @@ date: "2019-02-28"
 description: My academic publications and presentations.
 title: Publications
 ---
-Here you find an overview of my academic publications, presentations, etc. as well as my in-house publications from my time at the [IQS Austria.](https://www.iqs.gv.at/) Have a look at my [google scholar page.](https://scholar.google.com/citations?user=iLc6GCgAAAAJ&hl=en).
+Here you find an overview of my academic publications, presentations, etc. as well as my in-house publications from my time at the [IQS Austria.](https://www.iqs.gv.at/) Have a look at my [google scholar page.](https://scholar.google.com/citations?user=iLc6GCgAAAAJ&hl=en)
 
 [![photo2](/photo2.jpeg)](/large2.jpeg)
 
