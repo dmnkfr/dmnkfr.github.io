@@ -38,7 +38,7 @@ __Aug-Sep 2021:__ _Data Scientist in the [Science to Data Science](https://s2ds.
 
 __2018-2021:__ _Postdoctoral Researcher at [Stockholm University](https://www.biling.su.se/english/)_
 
-  - Designed and led large-scale experiments on language processing and brain representation, resulting in a published article in a leading journal, [ _Applied Linguistics_ ](https://academic.oup.com/applij), showcasing significant contributions to the field.
+  - Designed and led large-scale experiments on language processing and brain representation, resulting in a published article in a leading journal, [_Applied Linguistics_](https://academic.oup.com/applij), showcasing significant contributions to the field.
   - Facilitated team building by coordinating weekly lab meetings, leading journal clubs, and mentoring master’s students and lab assistants, contributing to a collaborative and well-supported lab environment.
 
 __2017-2018:__ _Postdoctoral Researcher at [IQS Austria](https://www.iqs.gv.at/)_
