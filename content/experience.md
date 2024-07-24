@@ -10,7 +10,7 @@ Below you find some info about my __professional experience__ and __educational 
 [![photo1](/photo1.jpeg)](/large1.jpeg)
 
 ### Experience
-__Since June 2023:__ _Data Scientist at [Annalect // Omnicom Media Group](https://annalectnordics.com/)_
+__Since June 2023:__ _Data Scientist at [Annalect](https://annalectnordics.com/)_
 
   - Initiated and currently leading the optimisation of the marketing-mix modeling pipeline, resulting in a 10% reduction in modeling time.
   - Designed and implemented an anomaly detection pipeline for multi-touch attribution models, decreasing quality control time by 80%.
