@@ -7,30 +7,30 @@ title: Experience
 ---
 Below you find some info about my __professional experience__ and __educational background__, both from academic training as well as online courses and boot camps.
 
-[![photo1](/photo1.jpeg)](/large1.jpeg)
+[![photo5](/photo5.png)](/large5.jpeg)
 
 ### Experience
-__Since June 2023:__ _Data Scientist at [Annalect](https://annalectnordics.com/)_
+__June 2023-December 2024__ _Data Scientist at [Annalect](https://annalectnordics.com/)_
 
-  - Initiated and currently leading the optimisation of the marketing-mix modeling pipeline, resulting in a 10% reduction in modeling time.
+  - Initiated the optimisation of a marketing-mix modeling pipeline, drastically reducing modeling time.
   - Designed and implemented an anomaly detection pipeline for multi-touch attribution models, decreasing quality control time by 80%.
   - Significantly influenced team development by leading weekly data science team meetings, mentoring new colleagues, and conducting workshops on coding best practices, process improvements, and professional development.
-  - Successfully delivered machine learning and analytics projects (e.g. customer segmentation, driver analysis, audience targeting optimisation) to several top-tier international clients, enhancing business outcomes aligned with their multimillion-SEK budgets.
+  - Successfully delivered machine learning and analytics projects (e.g. customer segmentation, driver analysis, audience targeting optimisation) to several top-tier international clients.
 
 __May 2022-May 2023:__ _Data Scientist at [Nepa](https://nepa.se/)_
 
-  - Led the development and maintenance of over 250 brand tracking and customer experience dashboards, ensuring seamless continuous deployment and driving enhanced data-driven decision-making.
+  - Development and maintenance of over 250 brand tracking and customer experience dashboards, ensuring seamless continuous deployment and driving enhanced data-driven decision-making.
   - Improved data visualisations, significantly extending functionality, which resulted in increased sales and additional revenue streams.
   - Organised and led weekly hands-on study sessions on [study session on NLP and AI](https://dmnkfr.netlify.app/projects/nlp_club/), fostering team collaboration and innovation, and successfully building several POCs for business use cases. 
   - Designed and implemented a unit testing strategy to ensure code quality and identify issues early in the development process.
 
-__Feb-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
+__February-April 2022:__ _Data Scientist at [Unforged](https://www.unforged.net/)_
 
   - Developed text classification models to detect harmful content in informal language settings, enhancing platform safety and user experience.
-  - Conducted extensive research and led the collection and integration of text datasets, ensuring high-quality data for robust model training.
+  - Collection and integration of text datasets, ensuring high-quality data for robust model training.
   - Developed and applied custom text-document representations and embeddings, significantly boosting the effectiveness and precision of the models.
 
-__Aug-Sep 2021:__ _Data Scientist in the [Science to Data Science](https://s2ds.org/) program_
+__August-September 2021:__ _Data Scientist in the [Science to Data Science](https://s2ds.org/) program_
 
   - Evaluated the effectiveness of social media data to analyse shifts in behaviour and attitudes on various topics, leveraging NLP and advanced machine learning techniques.
   - Delivered a successful proof-of-concept that established social media listening as a reliable tool for real-time consumer behaviour insights, adding significant value.

@@ -7,7 +7,7 @@ title: Publications
 ---
 Here you find an overview of my academic publications, presentations, etc. as well as my in-house publications from my time at the [IQS Austria.](https://www.iqs.gv.at/) Have a look at my [google scholar page.](https://scholar.google.com/citations?user=iLc6GCgAAAAJ&hl=en)
 
-[![photo2](/photo2.jpeg)](/large2.jpeg)
+[![photo2](/photo4.png)](/large4.jpeg)
 
 ### Journal Publications			
 1. __Freunberger, D.__, Bylund, E., & Abrahamsson, N. (2022). [Is It Time to Reconsider the ‘Gold Standard’ for Nativelikeness in ERP Studies on Grammatical Processing in a Second Language? A Critical Assessment Based on Qualitative Individual Differences.](https://academic.oup.com/applij/advance-article/doi/10.1093/applin/amab058/6380987) _Applied Linguistics 43_(3), 433-452.
