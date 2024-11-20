@@ -66,7 +66,11 @@ __2011 Master of Science (MSc) in Psycholinguistics__ with distinction at the Un
 
 __2009 Bachelor of Science (BSc) in Linguistics__ at the University of Salzburg, Austria.
 
-### Informal Education
+### Other Learning
+__2024:__ [Learning Apache Airflow by LinkedIn Learning](https://www.linkedin.com/learning/certificates/92f7fb08d697bc4b38941d050b81d10efdbdbb1e6e311c2ecab01bf30a481132?u=39207972)
+
+__2024:__ [Machine Learning in Production by Deeplearning.AI on Coursera](https://www.coursera.org/account/accomplishments/verify/V1Y80Y6Y2R1I)
+
 __2022:__ [Machine Learning by Stanford University & DeepLearning.AI on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/4BJDN3AM952G) 
 
 __2022:__ [Intermediate Machine Learning on Kaggle](https://www.kaggle.com/learn/certification/dominikfreunberger/intermediate-machine-learning)
