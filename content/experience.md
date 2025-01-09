@@ -10,6 +10,8 @@ Below you find some info about my __professional experience__ and __educational 
 [![photo5](/photo5.png)](/large5.jpeg)
 
 ### Experience
+__Since Jan 2025__ _Data Scientist at [Storytel](https://www.storytel.com/)_
+
 __June 2023-December 2024__ _Data Scientist at [Annalect](https://annalectnordics.com/)_
 
   - Initiated the optimisation of a marketing-mix modeling pipeline, drastically reducing modeling time.
